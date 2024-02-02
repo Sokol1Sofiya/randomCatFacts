@@ -1,7 +1,5 @@
 Качаем аккаунты Github для Gitcoin Passport
 
-https://t.me/ponquitter
-
 1. Форкаем этот репозиторий.
 
 2. [Создаем API ключ](https://github.com/settings/tokens/new), нажимаем Generate new token (classic). Выставляем "No 
