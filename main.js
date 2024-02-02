@@ -2,10 +2,10 @@
 const { Octokit } = require('@octokit/rest');
 
 
-const gitTokens = ['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']
+const gitTokens = ['token1', 'token2']
 
 
-const gitNames = ['Moneyjuststickwiththeboy']
+const gitNames = ['name1', 'name2']
 
 
 
