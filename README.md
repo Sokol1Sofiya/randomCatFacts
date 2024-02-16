@@ -29,4 +29,4 @@ Expiration" и прожимаем все галочки. Копируем клю
 быть третьим). Я привел пример с двумя аккаунтами.
 ![telegram-cloud-photo-size-4-5894181966641737981-w](https://github.com/hhermesa/randomCatFacts/assets/56301001/1962142c-a89f-4ce6-a189-c55dd1560e79)
 
-9. Жмем Deploy и сохраняем Workflow.
+9. Жмем Deploy и сохраняем Workflow. 
